@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "spfx-search-url-use",
+    "libraryId": "acd588c4-040e-4d7b-a447-c8da7397ac2c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-search-url-use",
+    "solutionShortDescription": "spfx-search-url-use description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

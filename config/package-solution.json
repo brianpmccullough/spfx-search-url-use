@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-search-url-use-client-side-solution",
+    "id": "acd588c4-040e-4d7b-a447-c8da7397ac2c",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-search-url-use description"
+      },
+      "longDescription": {
+        "default": "spfx-search-url-use description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-search-url-use Feature",
+        "description": "The feature that activates elements of the spfx-search-url-use solution.",
+        "id": "918091fe-dbc4-459c-b5c3-6fb7b3bb30fc",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-search-url-use.sppkg"
+  }
+}
