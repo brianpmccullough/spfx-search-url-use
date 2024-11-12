@@ -2,7 +2,7 @@
 
 ## Summary
 
-Sample for searching for links within SharePoint Online Pages. Supports find and replace and/or link identification scenarios.  Searches the CanvasContent1OWSHTML managed property using ONEAR queries, as outlined in Mikael Svenson's (@wobba) blog post on the topic: [An approach to search for a URL within a page or document in SharePoint](https://www.techmikael.com/2018/09/an-approach-to-search-for-url-within.html).  Benefit is that this searches configured web parts such as Quick Links.  Downside, doesn't (at least currently) search list items with Rich Text fields or Hyperlink columns.
+Sample for searching for links within SharePoint Online Pages. Supports find and replace and/or link identification scenarios.  Searches the CanvasContent1OWSHTML managed property using ONEAR queries, as outlined in Mikael Svenson's ([@wobba](https://github.com/wobba)) blog post on the topic: [An approach to search for a URL within a page or document in SharePoint](https://www.techmikael.com/2018/09/an-approach-to-search-for-url-within.html).  Benefit is that this searches configured web parts such as Quick Links.  Downside, doesn't (at least currently) search list items with Rich Text fields or Hyperlink columns.
 
 ## Used SharePoint Framework Version
 
